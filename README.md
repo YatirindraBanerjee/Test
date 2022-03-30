@@ -1,2 +1,4 @@
 # Test
-A test repository
+
+A test repository for testing github and git.
+
