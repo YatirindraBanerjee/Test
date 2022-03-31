@@ -1,6 +1,5 @@
-def sayhi(arg):
-    print("Hello " + arg)
+import Test
 
 if __name__ == '__main__':
     x = input("Enter your name: ")
-    sayhi(x)
+    Test.sayhi(x)
